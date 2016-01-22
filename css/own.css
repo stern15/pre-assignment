@@ -36,10 +36,21 @@ a{
 }
 .logo{
 	float: left;
+	padding-bottom: 3%;
 }
 /*first section titled first row*/
 
 .first{
 	margin-top: 2%;
 	background-color: white;
+}
+/*second section titled second row*/
+.second{
+	background-image: url(/Users/semasuka/pre-assignment/css/hero_img.jpg);
+	background-size: cover;
+	height: 70%;
+	color: white;
+	text-align: center;
+	padding: 10%;
+
 }
