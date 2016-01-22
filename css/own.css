@@ -16,19 +16,24 @@ time, mark, audio, video {
   margin: 0;
   padding-left: 2.5%;
   padding-right: 2.5%;
+  margin-top: 0%;
   border: 0;
   font-size: 100%;
   vertical-align: baseline;
 
 }
+body{
+	background-color: black;
+}
 /*introduction logo*/
 
 .intro{
-	background-color: white;
+	color: #000000;
 	width: 71%;
 	float: right;
 }
-a{
+/*links in the main menu*/ 
+a{  
 	color: black;
 }
 .intro:hover{
@@ -52,5 +57,27 @@ a{
 	color: white;
 	text-align: center;
 	padding: 10%;
+}
 
+.button1{
+	border: white 2px solid;
+	width: 22%;
+	margin-left: 25%;
+    padding:1%;
+
+}
+.button2{
+	border: #46dbf1 2px solid;
+	width: 22%;
+	margin-left: 50%;
+	margin-top: -6.3%;
+	padding:1%;
+	background-color:#46dbf1; 
+}
+.second a{
+	color: white;
+	
+}
+.second a:hover{
+	text-decoration: underline;
 }
