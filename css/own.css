@@ -24,7 +24,8 @@ time, mark, audio, video {
 /*introduction logo*/
 .intro{
 	background-color: white;
-	
+	width: 71%;
+	float: right;
 }
 a{
 	color: black;
@@ -38,5 +39,4 @@ a{
 .first{
 	margin-top: 2%;
 	background-color: white;
-
 }
