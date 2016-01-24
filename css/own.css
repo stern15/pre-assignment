@@ -115,13 +115,32 @@ h2{
 }
 /*fifth section given classes fifth row*/
 .fifth{
-	padding: 5%;
+	padding: 3%;
 	color: white;
 	background-image: url(/Users/semasuka/pre-assignment/css/what_we_do_bg.jpg);
 	background-size: cover;
-	height: 100%;
+	height: 110%;
 }
 .fifth h2{
 	text-align: center;
 	font-family: caviar dreams;
+	
+}
+/*sixth section given classes sixth row*/
+.sixth{
+	color: white;
+	margin-top: -44%;
+	text-align: center;
+}
+/*seventh section given classes seventh row*/
+.seventh{
+	color: white;
+	text-align: center;
+	padding-bottom: 3%;
+}
+.crosslogo{
+	padding-left: 2%;
+}
+.weblogo{
+	padding-left: 2%;
 }
