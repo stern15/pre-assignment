@@ -41,13 +41,13 @@ a{
 	float: left;
 	padding-bottom: 3%;
 }
-/*first section titled first row*/
+/*first section given classes first row*/
 
 .first{
 	margin-top: 2%;
 	background-color: white;
 }
-/*second section titled second row*/
+/*second section given classes second row*/
 .second{
 	background-image: url(/Users/semasuka/pre-assignment/css/hero_img.jpg);
 	background-size: cover;
@@ -68,8 +68,8 @@ a{
 .button2{
 	border: #46dbf1 2px solid;
 	width: 22%;
-	margin-left: 50%;
-	margin-top: -6.3%;
+	margin-right: 22%;
+	margin-top: 0%;
 	padding:1%;
 	background-color:#46dbf1; 
 }
@@ -79,4 +79,21 @@ a{
 }
 .second a:hover{
 	text-decoration: underline;
+}
+/*third section given classes third row*/
+.third{
+	background-color: white;
+	text-align: center;
+	padding: 5%;
+}
+h2{
+	font-size: 140%;
+}
+/*fourth section given classes fourth row*/
+
+.fourth p{
+	text-align: center;
+}
+.graphiclogo{
+	margin-left: 3%;
 }
