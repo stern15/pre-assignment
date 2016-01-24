@@ -90,10 +90,12 @@ h2{
 	font-size: 140%;
 }
 /*fourth section given classes fourth row*/
-
+.graphic{
+	height: 50%;
+}
 .fourth p{
 	text-align: center;
 }
 .graphiclogo{
-	margin-left: 3%;
+	padding-left: 30%;
 }
