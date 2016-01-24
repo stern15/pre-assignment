@@ -142,7 +142,7 @@ h2{
 /*sixth section given classes sixth row*/
 .sixth{
 	background-image: url(/Users/semasuka/pre-assignment/css/we_are_making_products.jpg);
-	background-size: cover;
-	height: 100%;
-	width: 100%;
+	background-size: contain;
+	opacity: 0;
+
 } 
