@@ -90,12 +90,22 @@ h2{
 	font-size: 140%;
 }
 /*fourth section given classes fourth row*/
-.graphic{
-	height: 50%;
-}
+
 .fourth p{
 	text-align: center;
 }
 .graphiclogo{
-	padding-left: 30%;
+	padding-left: 25%;
+}
+.weblogo{
+	padding-left: 25%;
+}
+.smalllogo{
+	padding-left: 45%;
+}
+.customizationlogo{
+	padding-left: 25%;
+}
+.retinalogo{
+	padding-left: 25%;
 }
