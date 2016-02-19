@@ -165,3 +165,16 @@ h2 {
     background-color: white;
     text-align: center;
 }
+.seventh h2 {
+    padding-top: 5%;
+}
+.seventh p {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 3%;
+}
+.next {
+    margin-left: 75%;
+    width: 2.5%;
+    margin-top: -13%;
+}
