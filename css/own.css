@@ -26,14 +26,14 @@ a {
     padding-top: 1%;
 }
 
-/*first section given classes first row*/
+/*first section given class first row*/
 
 .first {
     margin-top: 2%;
     background-color: white;
 }
 
-/*second section given classes second row*/
+/*second section given class second row*/
 
 .second {
     background-image: url("img/hero_img.jpg");
@@ -70,7 +70,7 @@ a {
     text-decoration: underline;
 }
 
-/*third section given classes third row*/
+/*third section given class third row*/
 
 .third {
     background-color: white;
@@ -83,7 +83,7 @@ h2 {
     font-weight: 900;
 }
 
-/*fourth section given classes fourth row*/
+/*fourth section given class fourth row*/
 
 .fourth {
     background-color: white;
@@ -102,7 +102,7 @@ h2 {
     padding-left: 45%;
 }
 
-/*fifth section given classes fifth row*/
+/*fifth section given class fifth row*/
 
 .fifth {
     padding: 3%;
@@ -129,7 +129,7 @@ h2 {
     padding: -15%;
 }
 
-/*sixth section given classes sixth row*/
+/*sixth section given class sixth row*/
 
 .sixth {
     background-image: url("img/we_are_making_products.jpg");
@@ -159,7 +159,7 @@ h2 {
     padding-left: 13%;
 }
 
-/*seventh section given classes seventh row*/
+/*seventh section given class seventh row*/
 
 .seventh {
     background-color: white;
@@ -177,4 +177,19 @@ h2 {
     margin-left: 75%;
     width: 2.5%;
     margin-top: -13%;
+}
+
+/*eighth section given class eighth row*/
+
+.eighth {
+    padding-left: 5%;
+    padding-right: 5%;
+    background-color: white;
+}
+
+/*nineth section given class nineth row*/
+
+.nineth {
+    padding: 5%;
+    background-color: white;
 }
