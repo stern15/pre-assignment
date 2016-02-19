@@ -1,6 +1,9 @@
 
 body{
 	font-family: caviar dreams;
+    background-color: black;
+    margin-top: -2%;
+        
 }
 
 /*introduction logo*/
@@ -8,7 +11,7 @@ body{
 .intro{
 	color: #000000;
 	width: 71%;
-	float: right;
+    padding-top: 2%
 }
 /*links in the main menu*/ 
 a{  
@@ -18,8 +21,10 @@ a{
 	color: #46dbf1;
 }
 .logo{
-	float: left;
 	padding-bottom: 3%;
+    padding-left: 7%;
+    padding-top: 1%;
+    
 }
 /*first section given classes first row*/
 
@@ -31,7 +36,7 @@ a{
 .second{
     background-image: url("img/hero_img.jpg");
 	background-size: cover;
-	height: 70%;
+	width: 100%;
 	color: white;
 	text-align: center;
 	padding: 10%;
@@ -40,7 +45,7 @@ a{
 .button1{
 	border: white 2px solid;
 	width: 22%;
-	margin-left: 25%;
+	margin-left: 27%;
     padding:1%;
 
 }
@@ -48,7 +53,7 @@ a{
 .button2{
 	border: #46dbf1 2px solid;
 	width: 22%;
-	margin-right: 22%;
+	margin-right: 27%;
 	margin-top: 0%;
 	padding:1%;
 	background-color:#46dbf1; 
@@ -69,9 +74,12 @@ a{
 h2{
 	font-size: 140%;
 	font-family: caviar dreams;
+    font-weight: 900;
 }
 /*fourth section given classes fourth row*/
-
+.fourth{
+    background-color: white;
+}
 .fourth p{
 	text-align: center;
 }
