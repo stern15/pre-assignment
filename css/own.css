@@ -206,4 +206,11 @@ h2 {
 .tenth h2 {
     padding-top: 1%;
 }
+
 /*eleventh section given class tenth row*/
+
+.eleventh {
+    color: black;
+    background-color: white;
+    text-align: center;
+}
