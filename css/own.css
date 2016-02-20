@@ -223,6 +223,7 @@ h2 {
 .twelveth {
     background-color: white;
     padding-top: 5%;
+    padding-bottom: 5%;
     text-align: center;
     padding-left: 13%;
     padding-right: 13%;
@@ -230,5 +231,17 @@ h2 {
 .name,
 .mail,
 .subject {
-    background-color: #c7def4;
+    background-color: #cfecf1;
+}
+.textarea {
+    background-color: #cfecf1;
+}
+.button4 {
+    border: 2px solid #4facc4;
+    background-color: #3a94aa;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.button4 a {
+    color: white;
 }
