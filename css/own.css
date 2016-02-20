@@ -241,7 +241,12 @@ h2 {
     background-color: #3a94aa;
     padding-top: 1%;
     padding-bottom: 1%;
-}
-.button4 a {
     color: white;
+}
+
+/*thirteen section given class thirteen row*/
+
+.thirteen {
+    background-image: url("img/portfolio8.jpg");
+    background-size: cover;
 }
