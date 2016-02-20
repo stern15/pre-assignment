@@ -224,4 +224,11 @@ h2 {
     background-color: white;
     padding-top: 5%;
     text-align: center;
+    padding-left: 13%;
+    padding-right: 13%;
+}
+.name,
+.mail,
+.subject {
+    background-color: #c7def4;
 }
