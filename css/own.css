@@ -207,13 +207,21 @@ h2 {
     padding-top: 5%;
 }
 
-/*eleventh section given class tenth row*/
+/*eleventh section given class eleventh row*/
 
 .eleventh {
     color: black;
-    background-color: white;
+    background-color: #efefef;
     text-align: center;
 }
 .container2 {
     padding: 5%;
+}
+
+/*twelveth section given class eleventh row*/
+
+.twelveth {
+    background-color: white;
+    padding-top: 5%;
+    text-align: center;
 }
