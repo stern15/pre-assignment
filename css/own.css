@@ -258,17 +258,20 @@ h2 {
     margin-left: 13%;
     margin-top: 3%;
 }
-.addressText {
+.EmailText,
+.addressText,
+.phoneText {
     margin-left: 3%;
     margin-top: -3.5%;
     position: absolute;
 }
 .phone {
     width: 4.5%;
-    margin-left: 30%;
-}
-
+    margin-left: 26%;
+    margin-top: 3%;
 }
 .email {
-    width: 9%;
+    width: 5%;
+    margin-right: 24%;
+    margin-top: 3%;
 }
