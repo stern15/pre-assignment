@@ -193,3 +193,16 @@ h2 {
     padding: 5%;
     background-color: white;
 }
+
+/*tenth section given class tenth row*/
+
+.tenth {
+    background-image: url("img/bg_quote.jpg");
+    background-size: cover;
+    color: white;
+    text-align: center;
+    height: 30%;
+}
+.tenth h2 {
+    padding-top: 1%;
+}
