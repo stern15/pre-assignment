@@ -204,7 +204,7 @@ h2 {
     height: 30%;
 }
 .tenth h2 {
-    padding-top: 1%;
+    padding-top: 5%;
 }
 
 /*eleventh section given class tenth row*/
@@ -213,4 +213,7 @@ h2 {
     color: black;
     background-color: white;
     text-align: center;
+}
+.container2 {
+    padding: 5%;
 }
