@@ -291,51 +291,10 @@ h2 {
     padding-top: 5%;
 }
 
+/*fifteen section given class fifteenth row*/
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+.fifteenth {
+    background-color: #1c1c1c;
+    color: white;
+    text-align: center;
+}
