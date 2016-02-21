@@ -210,7 +210,12 @@ h2 {
 .previous {
     width: 2%;
 }
-.next {}
+.next {
+    padding-left: 1%
+}
+.next {
+    padding-left: 1%
+}
 
 /*eleventh section given class eleventh row*/
 
