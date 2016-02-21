@@ -206,6 +206,11 @@ h2 {
 .tenth h2 {
     padding-top: 5%;
 }
+.next,
+.previous {
+    width: 2%;
+}
+.next {}
 
 /*eleventh section given class eleventh row*/
 
