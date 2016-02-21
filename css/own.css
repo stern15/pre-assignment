@@ -202,6 +202,7 @@ h2 {
     color: white;
     text-align: center;
     height: 30%;
+    position: relative;
 }
 .tenth h2 {
     padding-top: 5%;
@@ -211,10 +212,10 @@ h2 {
     width: 2%;
 }
 .next {
-    padding-left: 1%
+    padding-left: 1%,
 }
-.next {
-    padding-left: 1%
+.previous {
+    padding-left: 1%,
 }
 
 /*eleventh section given class eleventh row*/
