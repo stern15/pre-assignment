@@ -214,6 +214,7 @@ h2 {
     background-color: #efefef;
     text-align: center;
     position: relative;
+    height: 70%;
 }
 .container2 {
     padding-top: 7%;
@@ -235,6 +236,14 @@ h2 {
 .john {
     position: absolute;
     margin-left: 10%;
+}
+.mick {
+    position: absolute;
+    margin-left: 29%;
+}
+.emma {
+    position: absolute;
+    margin-left: 1%;
 }
 .kazi {
     margin-left: 70%;
