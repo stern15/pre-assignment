@@ -213,9 +213,30 @@ h2 {
     color: black;
     background-color: #efefef;
     text-align: center;
+    position: relative;
 }
 .container2 {
     padding: 5%;
+}
+.john,
+.mick,
+.emma,
+.kazi {
+    background-color: white;
+}
+.johnpic,
+.mickpic,
+.emmapic,
+.kazipic {
+    margin-top: 7%;
+}
+.kazi {
+    margin-left: 70%;
+    position: absolute;
+}
+.mick {
+    position: absolute;
+    margin-left: 20%;
 }
 
 /*twelveth section given class eleventh row*/
@@ -297,4 +318,18 @@ h2 {
     background-color: #1c1c1c;
     color: white;
     text-align: center;
+    padding-top: 1%;
+}
+.socialMedia {
+    padding-top: 5%;
+}
+.facebook,
+.google,
+.pint,
+.twitter,
+.drib,
+.vines,
+.in,
+.rss {
+    width: 7%;
 }
