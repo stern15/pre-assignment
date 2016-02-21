@@ -213,11 +213,12 @@ h2 {
 }
 .next {
     position: absolute;
-    margin-left: 1%;
+    margin-left: 0%;
+    margin-top: 0%;
 }
 .previous {
     position: absolute;
-    margin-left: 1%;
+    margin-left: -3%;
 }
 
 /*eleventh section given class eleventh row*/
